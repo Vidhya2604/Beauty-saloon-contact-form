@@ -30,3 +30,4 @@ This project features a basic contact form that collects user information and st
 1. Visual Studio Code.
 2. XAMPP.
 3. Web Browser
+4. phpmyadmin
